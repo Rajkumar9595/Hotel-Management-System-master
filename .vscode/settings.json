@@ -1,0 +1,32 @@
+{
+    "java.completion.filteredTypes": [
+        "com.sun.*",
+        "sun.*",
+        "jdk.*",
+        "org.graalvm.*",
+        "io.micrometer.shaded.*"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "mysql",
+            "database": "hotelmanagementsystem",
+            "username": "root",
+            "password": ""
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\xampp\\mysql\\mysql-connector-java-5.1.18.bundle.jar",
+        "c:\\xampp\\mysql\\mysql-connector-java-8.0.11.jar",
+        "c:\\Users\\Sunil Sharma\\Downloads\\jar_files (2)\\mysql-connector-j-8.1.0.jar",
+        "c:\\Users\\Sunil Sharma\\Downloads\\rs2xml.jar"
+    ]
+}

@@ -1,0 +1,140 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AddDrivers",
+            "request": "launch",
+            "mainClass": "hotel.management.system.AddDrivers",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "AddEmployee",
+            "request": "launch",
+            "mainClass": "hotel.management.system.AddEmployee",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "AddRoom",
+            "request": "launch",
+            "mainClass": "hotel.management.system.AddRoom",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "CheckOut",
+            "request": "launch",
+            "mainClass": "hotel.management.system.CheckOut",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "CustomerInfo",
+            "request": "launch",
+            "mainClass": "hotel.management.system.CustomerInfo",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "Dashboard",
+            "request": "launch",
+            "mainClass": "hotel.management.system.Dashboard",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "Department",
+            "request": "launch",
+            "mainClass": "hotel.management.system.Department",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "hotel.management.system.Employee",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "HotelManagementSystem",
+            "request": "launch",
+            "mainClass": "hotel.management.system.HotelManagementSystem",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "hotel.management.system.Login",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "ManagerInfo",
+            "request": "launch",
+            "mainClass": "hotel.management.system.ManagerInfo",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "NewCustomer",
+            "request": "launch",
+            "mainClass": "hotel.management.system.NewCustomer",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "PickUp",
+            "request": "launch",
+            "mainClass": "hotel.management.system.PickUp",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "Reception",
+            "request": "launch",
+            "mainClass": "hotel.management.system.Reception",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "Room",
+            "request": "launch",
+            "mainClass": "hotel.management.system.Room",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "SearchRoom",
+            "request": "launch",
+            "mainClass": "hotel.management.system.SearchRoom",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "UpdateCheck",
+            "request": "launch",
+            "mainClass": "hotel.management.system.UpdateCheck",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        },
+        {
+            "type": "java",
+            "name": "UpdateRoom",
+            "request": "launch",
+            "mainClass": "hotel.management.system.UpdateRoom",
+            "projectName": "Hotel-Management-System-master_81bf5418"
+        }
+    ]
+}
